@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Fancy seeing you here!</h1>
-<h3 align="left"> I'm Joeh , I do  Software Engineering / Data Analysis / Data Science / Machine Learning</h3>
+<h3 align="left"> I'm Joeh , I do IOT / Data Analysis / Data Science / Machine Learning</h3>
 <p align="left">
   <a href="https://github.com/JoehIreri/JoehIreri">
     <img src="https://komarev.com/ghpvc/?username=JoehIreri" alt="page views" />
